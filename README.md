@@ -9,10 +9,10 @@ The maps were created using 3 datasets (all included in repo):
 2. 2018 Census data (https://www.census.gov/data/datasets/time-series/demo/popest/2010s-counties-total.html)
 3. California Geographic boundaries (https://data.ca.gov/dataset/ca-geographic-boundaries)
 
-Briefly, incidence, prevalence and mortality are common epidemiological indices:\
-**Incidence:** Number of new cases ÷ Population\ 
-**Mortality:** Total number of deaths ÷ Population\
-**Prevalence:** Total number of cases ÷ Population\
+Briefly, incidence, prevalence and mortality are common epidemiological indices: <br/>
+**Incidence:** Number of new cases ÷ Population <br/> 
+**Mortality:** Total number of deaths ÷ Population <br/>
+**Prevalence:** Total number of cases ÷ Population <br/>
 
 A Jupyter notebook containing the steps utilized to create the choropleths is included in the repo including explanations of the steps. All the maps were created individually and combined into a single figure to demonstrate the spread over time.  
 
