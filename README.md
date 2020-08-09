@@ -1,4 +1,4 @@
-# COVID-19 in California
+# Tracking the Spread of COVID-19 in California
 
 A graphical analysis/report of the spread of COVID-19 Through California
 
